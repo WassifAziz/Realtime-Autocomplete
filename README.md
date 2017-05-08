@@ -1,4 +1,3 @@
-Realtime-Autocomplete
-=====================
+Go to Wiki page for details
 
-how to set up realtime autoocomplete (updates without having to submit!)
+https://github.com/WassifAziz/Realtime-Autocomplete/wiki/How-to-set-up-Realtime-Autocomplete
